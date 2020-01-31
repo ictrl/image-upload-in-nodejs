@@ -1,7 +1,7 @@
 {
   "name": "image-upload-in-nodejs",
   "version": "1.0.0",
-  "description": "Imgage upload form frontend to backend (nodejs) , storing in mongodb and again displaying in frontend.",
+  "description": "Image upload form frontend to backend (nodejs) , storing in mongodb and again displaying in frontend.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
